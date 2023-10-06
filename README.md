@@ -2,3 +2,4 @@
 
 - Ping
 - Nmap
+- Shodan
