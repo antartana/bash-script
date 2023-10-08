@@ -3,3 +3,4 @@
 - Ping
 - Nmap
 - Shodan
+- Nikto
